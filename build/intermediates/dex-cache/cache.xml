@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_35bfb52ea18c756fbb36af47fe0e8b20fd5c9f23.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_5fad5b8cdca010a5da06b17b6499b18ccb18367d.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fbe3acf1e70916aee7f46b924f26f251189ca22b.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_8ea3be1561bf614193d3e6e41e94d5ee70b1f549.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_8cf5a098e7fc119b95456a9a1beb8b8c3f8a1a76.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/gson-2.6.1_e4bc9ec32777927415586bafa080ebfe04f22b3a.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_27a7bfa79ca93d9544c01e95898ad40fe3305065.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3846e763bcc74493aa76eee7b391bcd94410b565.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_01f89bedaaacac3a1a8c8cb55143b237c7b15fdd.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/okio-1.11.0_4c321e15f06dadb31859cee3471f16cd268d5d5e.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f9f4cfa85c08f5b094744e1f765024f8b1f0dec0.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e4b1fed798bbf7950f922197310c0dbafc13637f.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_c94d24a621d200d3df857b136f1fc723af0a7c0d.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e0dce1b5422def40b945d3fa295b6fd901902d43.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_98d2bde96e5c84678ce4830cf476c5fc804df628.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_0d06fdb0b757af660d3066ed83a0db880881d4c0.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_bd7942f16af997ea833376df130be3f2b3451d29.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2e72953f49984ec2dafde61b1aa3e0aeb19fd3d0.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_1742e822855891b121f4ed1d5b2bbfb71905b57a.jar" />
+    </item>
+    <item
+        jar="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/demi-solution/Desktop/workspace/test/RetrofitExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_bf74e38ce98f7cf1440b0afd8dd4af4ebceb359e.jar" />
+    </item>
+
+</items>
